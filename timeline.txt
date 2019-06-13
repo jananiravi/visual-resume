@@ -1,0 +1,11 @@
+org	role	start	end	side
+Anna Univ	BTech	2002	2006	1
+CDFD	UG researcher	2004	2004	1
+IISc	UG researcher	2005	2006	1
+Virginia Tech	PhD	2006	2012	1
+Rutgers, Math	Postdoc	2012	2013	1
+Rutgers, PHRI	Postdoc	2013	2018	0
+Broad Institute	Visiting Scientist	2015	2015	0
+NCBI, NIH	Visiting Scientist	2017	2017	0
+Michigan State	Sr Research Associate	2018	2020	0
+R-Ladies East Lansing	Founder	2018	2020	0

@@ -1,0 +1,1 @@
+"Janani Ravi, PhD"	"Computational Host-pathogen Biology, Data Science w/ R"	"*Built with love in R using the InfoResume package: www.ndphillips.github.io/inforesume")

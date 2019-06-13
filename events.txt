@@ -1,0 +1,9 @@
+year	title
+2009	Computational Cell Biology, CSHL, Long Island, NY 2009
+2010	Cell Growth and Proliferation, GRC, Colby College, ME 2009
+2011	Computational Cell Biology, CSHL, Long Island, NY 2011
+2014	Institute for Mathematical Sciences, Chennai, India 2014
+2015	Rutgers Lipid Research Symposium, New Brunswick, NJ 2015
+2016	ASM Microbe, Boston, MA 2016
+2017	ASM Tuberculosis, New York, NY 2017
+2018	ISMB, Chicago, IL 2018
